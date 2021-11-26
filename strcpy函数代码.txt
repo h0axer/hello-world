@@ -9,5 +9,5 @@ char* StrCpy(char* src) {
 	return des;
 }
 /**
-远程edit
+本地编辑
 **/
